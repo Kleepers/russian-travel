@@ -1,0 +1,11 @@
+.page {
+    background-color: #2a2c2f;
+    color: white;
+    font-family: Inner;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: Inner;
+}

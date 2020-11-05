@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="877ba45d-1473-4c47-b908-cbc0d8170606" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/russian-travel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__graph/lead__graph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__image/lead__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__polka/lead__polka.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/__item/photo-grid__item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__image/place__image.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/__website/place__website.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Black.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Italic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Italic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Light.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Medium.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Medium.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-Thin.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-italic.var.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter-roman.var.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Inter.var.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/inter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/cover-trains.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/header-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/lead-polka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-arisa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-atharva-tulsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-baikal-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-baikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-elbrus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-ergaki.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-kamchatka-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-kamchatka-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-kondratiev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-sochi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-train.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/photo-grid-tuman.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-altai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-karelia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-kolsky.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-kosa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/place-winter-baikal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/inter.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/normalize.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jmgZ0DMCDwRxrdJpoL5U8pVxSb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/webstorm" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/russian-travel/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="877ba45d-1473-4c47-b908-cbc0d8170606" name="Default Changelist" comment="" />
+      <created>1604414733005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604414733005</updated>
+      <workItem from="1604414734423" duration="910000" />
+      <workItem from="1604420143701" duration="10816000" />
+      <workItem from="1604435570532" duration="8732000" />
+      <workItem from="1604512639797" duration="780000" />
+      <workItem from="1604571751490" duration="16290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="729" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604421570248">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="729" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604421570248" />
+    <state width="1899" height="325" key="GridCell.Tab.0.bottom" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.0.center" timestamp="1604599217975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217975" />
+    <state width="1899" height="325" key="GridCell.Tab.0.left" timestamp="1604599217975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217975" />
+    <state width="1899" height="325" key="GridCell.Tab.0.right" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.1.bottom" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.1.center" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.1.left" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.1.right" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.2.bottom" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.2.center" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.2.left" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.2.right" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.3.bottom" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.3.center" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.3.left" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state width="1899" height="325" key="GridCell.Tab.3.right" timestamp="1604599217976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="325" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604599217976" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1604421265372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604421265372" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604427761019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604427761019" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1604592596520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604592596520" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604589735962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604589735962" />
+  </component>
+</project>

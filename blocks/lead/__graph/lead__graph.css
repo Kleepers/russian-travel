@@ -1,0 +1,17 @@
+.lead__graph {
+    position: absolute;
+    top: 21%;
+    left: 4%;
+    width: 95%;
+}
+
+@media screen and (max-width: 767px) and (min-width: 320px) {
+    .lead__graph {
+        position: absolute;
+        top: 30px;
+        left: 7.5px;
+        width: 95%;
+        max-height: 90px;
+    }
+}
+
