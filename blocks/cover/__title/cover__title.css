@@ -15,11 +15,6 @@
     text-decoration-line: none;
 }
 
-.cover__title:before {
-    color: white;
-    text-decoration-line: none;
-}
-
 .cover__title:visited {
     color: white;
     text-decoration-line: none;

@@ -6,6 +6,8 @@
     line-height: 22px;
     color: #fff;
     text-decoration-line: underline;
+    transition: 0.7s;
+    opacity: 1;
 }
 
 .place__link:visited {
