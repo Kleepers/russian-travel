@@ -2,14 +2,19 @@
     position: absolute;
     top: 21%;
     left: 4%;
-    width: 95%;
+    width: 90%;
+    max-height: 62.5%;
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .lead__graph {
         position: absolute;
-        top: 41px;
-        left: 13px;
+        top: 0;
+        left: 2%;
+        min-width: 288px;
+        margin-bottom: -30px;
+        min-height: 200px;
+        max-height: 62.5%;
     }
 }
 
