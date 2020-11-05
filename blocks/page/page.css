@@ -4,8 +4,5 @@
     font-family: Inner;
     display: flex;
     flex-direction: column;
-}
-
-h1 {
-    font-family: Inner;
+    text-rendering: optimizeLegibility;
 }

@@ -9,8 +9,8 @@
     width: 560px;
     z-index: 3;
     position: absolute;
-    top: 33%;
-    left: 26.4%;
+    top: calc((90% - 152px)/2);
+    left: calc((100% - 560px)/2);
     color: white;
     text-decoration-line: none;
 }
@@ -37,8 +37,8 @@
         width: 560px;
         z-index: 3;
         position: absolute;
-        top: 24%;
-        left: 14%;
+        top: calc((85% - 152px)/2);
+        left: calc((100% - 560px)/2);
     }
 }
 
@@ -51,8 +51,8 @@
         line-height: 35px;
         text-align: center;
         position: absolute;
-        top: 33px;
-        left: 16px;
+        top: calc((85% - 70px)/2);
+        left: calc((100% - 288px)/2);
         width: 288px;
     }
 }
