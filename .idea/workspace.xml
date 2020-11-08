@@ -10,7 +10,84 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="877ba45d-1473-4c47-b908-cbc0d8170606" name="Default Changelist" comment="" />
+    <list default="true" id="877ba45d-1473-4c47-b908-cbc0d8170606" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__link/cover__link.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/cover/__overlay/cover__overlay.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/footer/__link_item/footer__link_item.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/header/__lang-link/_active/header__lang-link_active.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/intro/_list_text/intro_list_text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blocks/main/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__background/cover__background.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__subtitle/cover__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/__title/cover__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/cover/cover.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/cover/cover.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__copyright/footer__copyright.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__link/footer__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/__links/footer__links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/footer/footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/footer/footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-link/header__lang-link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__lang-links/header__lang-links.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/__logo/header__logo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/header/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__list/intro__list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__text/intro__text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/__title/intro__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/intro/intro.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/intro/intro.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__caption/lead__caption.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__graph/lead__graph.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__polka/lead__polka.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__subtitle/lead__subtitle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/__title/lead__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/lead/lead.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/lead/lead.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/page/page.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/page/page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/photo-grid/photo-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__link/place__link.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__link/place__link.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraph/place__paragraph.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__paragraphs/place__paragraphs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__title/place__title.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__title/place__title.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__url-heading/place__url-heading.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/__website/place__website.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/__website/place__website.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/place/place.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/place/place.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blocks/places/places.css" beforeDir="false" afterPath="$PROJECT_DIR$/blocks/places/places.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BlackItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLight.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ExtraLightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Light.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-LightItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Medium.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-MediumItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-SemiBoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-Thin.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-ThinItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-italic.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-roman.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter.var.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/inter.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/inter.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/lead-polka.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/lead-polka.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,6 +154,10 @@
       <workItem from="1604571751490" duration="16290000" />
       <workItem from="1604599403635" duration="1127000" />
       <workItem from="1604612471402" duration="1716000" />
+      <workItem from="1604618514470" duration="974000" />
+      <workItem from="1604758933682" duration="47000" />
+      <workItem from="1604829958466" duration="12142000" />
+      <workItem from="1604842132704" duration="4874000" />
     </task>
     <servers />
   </component>
@@ -103,85 +184,85 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="729" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604421570248" />
-    <state width="1259" height="303" key="GridCell.Tab.0.bottom" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.0.bottom" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.0.center" timestamp="1604618368877">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.0.center" timestamp="1604842118883">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118883" />
     <state width="1259" height="303" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368877" />
-    <state width="1259" height="303" key="GridCell.Tab.0.left" timestamp="1604618368877">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.0.left" timestamp="1604842118883">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118883" />
     <state width="1259" height="303" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368877" />
-    <state width="1259" height="303" key="GridCell.Tab.0.right" timestamp="1604618368877">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.0.right" timestamp="1604842118883">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118883" />
     <state width="1259" height="303" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368877" />
-    <state width="1259" height="303" key="GridCell.Tab.1.bottom" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.1.bottom" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.1.center" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.1.center" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.1.left" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.1.left" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.1.right" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.1.right" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.2.bottom" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.2.bottom" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541849" />
+    <state width="1899" height="323" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.2.center" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.2.center" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.2.left" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.2.left" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541848" />
+    <state width="1899" height="323" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.2.right" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.2.right" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541849" />
+    <state width="1899" height="323" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.3.bottom" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.3.bottom" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541849" />
+    <state width="1899" height="323" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.3.center" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.3.center" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541849" />
+    <state width="1899" height="323" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.3.left" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.3.left" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541849" />
+    <state width="1899" height="323" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
-    <state width="1259" height="303" key="GridCell.Tab.3.right" timestamp="1604618368878">
-      <screen x="1920" y="0" width="1280" height="984" />
+    <state width="1899" height="323" key="GridCell.Tab.3.right" timestamp="1604842118884">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="325" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604612541849" />
+    <state width="1899" height="323" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1604842118884" />
     <state width="1259" height="303" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1280.984@1920.0.1280.984" timestamp="1604618368878" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1604421265372">
       <screen x="0" y="0" width="1920" height="1040" />
