@@ -2,31 +2,32 @@
     font-family: "Inter", Arial, sans-serif;
     display: grid;
     grid-template-columns: 460px 524px;
-    grid-template-rows: 200px 475px;
+    grid-template-rows: minmax(min-content,max-content) 460px;
     grid-template-areas:
     "title website"
     "image paragraphs";
-    margin-bottom: 80px;
     align-self: center;
+    margin-bottom: 80px;
 }
 
 @media screen and (max-width: 1279px) and (min-width: 1024px) {
     .place {
         grid-template-columns: 440px 488px;
+        grid-template-rows: minmax(min-content,max-content) 440px;
     }
 }
 
 @media screen and (max-width: 1023px) and (min-width: 768px) {
     .place {
         grid-template-columns: 340px 380px;
-        grid-template-rows: 100px 475px;
+        grid-template-rows: minmax(min-content,max-content) minmax(340px,max-content);
     }
 }
 
 @media screen and (max-width: 767px) and (min-width: 320px) {
     .place {
-        grid-template-columns: 288px;
-        grid-template-rows: 45px 288px minmax(min-content,max-content);
+        grid-template-columns: 320px;
+        grid-template-rows: 45px 320px minmax(min-content,max-content);
         grid-template-areas:
         "title"
         "image"
