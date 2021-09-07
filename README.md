@@ -10,7 +10,6 @@ https://kleepers.github.io/russian-travel/index.html
  
 <p align="center"></p> 
  
-**Сайт создан в рамках курса Веб-разработчик Яндекс.Практикума (https://praktikum.yandex.ru/web/). Код проверен ревьюерами.**  
  
 ## Что использовано 
  
